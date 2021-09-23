@@ -1,8 +1,9 @@
 # SatX Technologies 
 
-### _Full Project_
 
 ![Vertical SatX Technologies Logo with Flag](/Images/SatX-Technologies-logo.png)
+
+### _Full Project_
 
 SatX Technologies is a research project consisting of five high school students enrolled in a STEM specific honours program in Horten, Norway. We develop mini - satellites to retrieve data from the atmosphere and software to analyze the data afterwards. This repo consists of all of the files used in our project and the files submitted to [The European Space Agency](https://www.esa.int/) for the 2021 European CanSat Finals. 
 
@@ -30,7 +31,7 @@ Our latest inventions are SatX Haptic and SatX Cloud. Haptic is a model which us
 For more information about the satellite, prerequisite softwares or about the team, please visit our website and read our final report! [/SatX_Technologies_Final_Report.pdf] 
 [Our Website](http://satxnorway.com/)
 [Contact Us!](mailto:satxnorway@gmail.com)
-![Horisontal SatX Technologies Logo](/Images/SatX-Technologies-horisontal-logo.png)
+![Horisontal SatX Technologies Logo](/Images/textonly.png)
 
 ## Tropos Design
 The .stl, .obj, .glb and .svg files for the satellite design can be found in the design folder of this repository. These files are needed in order to 3D - print the satellite's inner and outer shell. These shells are used to mount and protect the components within the satellite. For more information about the components used in the satellite, please refer to our final report. [/SatX_Technologies_Final_Report.pdf] 
