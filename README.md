@@ -31,7 +31,6 @@ Our latest inventions are SatX Haptic and SatX Cloud. Haptic is a model which us
 For more information about the satellite, prerequisite softwares or about the team, please visit our website and read our final report! [/SatX_Technologies_Final_Report.pdf] 
 [Our Website](http://satxnorway.com/)
 [Contact Us!](mailto:satxnorway@gmail.com)
-![Horisontal SatX Technologies Logo](/Images/textonly.png)
 
 ## Tropos Design
 The .stl, .obj, .glb and .svg files for the satellite design can be found in the design folder of this repository. These files are needed in order to 3D - print the satellite's inner and outer shell. These shells are used to mount and protect the components within the satellite. For more information about the components used in the satellite, please refer to our final report. [/SatX_Technologies_Final_Report.pdf] 
