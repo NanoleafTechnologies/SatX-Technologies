@@ -1,0 +1,6 @@
+Written by Didrik Wiig-Andersen 
+21.06.2021
+
+
+in data/output.csv the input is run with the eksample height of 100 MASL
+

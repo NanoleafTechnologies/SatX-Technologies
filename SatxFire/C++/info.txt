@@ -1,0 +1,1 @@
+Input the amount of rain for the past seven days, the humidity and temperature retrived from the satellite. This

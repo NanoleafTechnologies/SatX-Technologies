@@ -1,0 +1,7 @@
+Written by Didrik Wiig-Andersen
+12.07.2021
+
+Two example data sets are included in /datasets/data.csv & /datasets/data.txt files
+
+
+
