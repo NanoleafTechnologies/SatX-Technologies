@@ -39,14 +39,14 @@ The .stl, .obj, .glb and .svg files for the satellite design can be found in the
 
 ## Satellite Code
 The code for the satellite itself can be found in the folder /SatelliteCode in this repo. There are three files, each for the three main modules of the satellite. 
-1.Satellite on-board unit
-2.Ground station unit
-3.On-board Camera Unit
+ 1.Satellite on-board unit
+ 2.Ground station unit
+ 3.On-board Camera Unit
 
-The code must be compiled using a .ino compiler such as the Arduino IDE before uploading.
+The code must be compiled using a .ino compiler such as the Arduino IDE before uploading to each module.
 
 ## Data Analyzation Tools
-The data analyzation tools are used for analyzing the data retrieved from the satellite while in-air or after a lanuch. 
+The data analyzation tools are used for analyzing the data retrieved from the satellite while in-air and after a launch.
 | Tool | Folder |
 | ------ | ------ |
 | SatX Fire | [SatxFire/C++/main.cpp] |
@@ -58,7 +58,7 @@ SatX Fire is used to determine the risk of wildfire in the area in which the sat
 
 
 ### SatX Haptic
-SatX Haptic uses regression to calculate data at a higher altitude using already retrieved data. The program automatically detects files in the project folder when run and asks for a user specified height as input. It further writes the calculated data onto a .txt file. /output.txt
+SatX Haptic uses regression to calculate data at a higher altitude using already retrieved data. The program automatically detects files in the project folder when run and asks for a user specified height as input. It further writes the calculated data onto a .txt file. [output.txt]
 
 ```sh
 python script.py
