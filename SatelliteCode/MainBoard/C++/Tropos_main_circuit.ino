@@ -169,7 +169,7 @@ void loop() {
 
 
        //Temperature
-       /*
+      
       tempSenValue = analogRead(tempSen);
       voltageTemp = (tempSenValue / 1024.0) * 5.0;
       rfm96.printToBuffer("Voltage: ");
@@ -181,8 +181,8 @@ void loop() {
       rfm96.printToBuffer(TemperatureOne);
       rfm96.printToBuffer(" ");
       rfm96.printlnToBuffer();
+     
        
-       */
        //Update the new Gyro data
         gy91.read_gyro();
         
