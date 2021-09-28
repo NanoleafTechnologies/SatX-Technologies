@@ -1,6 +1,6 @@
 # SatX Technologies 
 ![Travis-CI](https://app.travis-ci.com/satxnorway/SatX_Technologies_Full_Project.svg?branch=main)
-![Python Version]()
+![Python Version](./Documentation/Skjermbilde.PNG)
 
 ![Vertical SatX Technologies Logo with Flag](/Images/SatX-Technologies-logo.png)
 
