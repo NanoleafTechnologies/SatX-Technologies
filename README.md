@@ -1,6 +1,5 @@
 # SatX Technologies 
 
-![Python Version](./Documentation/Skjermbilde.PNG)
 
 ![Vertical SatX Technologies Logo with Flag](/Images/SatX-Technologies-logo.png)
 
